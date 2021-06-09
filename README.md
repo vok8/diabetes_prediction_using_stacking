@@ -10,7 +10,7 @@
 5. ANN Model (With hyperparameter tuning & 3-fold CV)
 6. Logisitic Regression (With hyperparameter tuning & 3-fold CV)
 
-- We have used simple "Logistic Regression" Model (from python's 'scikit' module) as the level-1 model.
+- We have used simple "Logistic Regression" Model (from python's 'scikit' module) as the level-1 model, with 4-fold CV.
 
 - We have achieved 76.2% test accuracy on "Our Model", which is better than all the 6 individual models.
 
