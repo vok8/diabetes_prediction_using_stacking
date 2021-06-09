@@ -14,4 +14,6 @@
 
 - We have achieved 74.5% test accuracy on "Our Model", which is better than all the 6 individual models.
 
-- Contributors & Authors: Vinay Khilwani, Vasu Gondaliya, Shreya Patel, Jay Hemnani & Bhuvan Gandhi
+## Contributors & Authors: 
+
+Vinay Khilwani, Vasu Gondaliya, Shreya Patel, Jay Hemnani & Bhuvan Gandhi
