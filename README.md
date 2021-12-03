@@ -12,7 +12,7 @@
 
 - We have used simple "Logistic Regression" Model (from python's 'scikit' module) as the level-1 model, with 4-fold CV.
 
-- We have achieved 76.2% test accuracy on "Our Model", which is better than all the 6 individual models.
+- We have achieved 82.68% test accuracy on "Our Model", which is better than all the 6 individual models.
 
 ## Contributors & Authors
 
